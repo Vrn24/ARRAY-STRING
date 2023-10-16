@@ -51,18 +51,6 @@ for (int i = 0; i < arraySize; i++) {
 
 #### **OUTPUT**
 
-- **Enter the marks of 10 subjects and display it**
-
-
-![exp7_5](https://github.com/Purvansha022609/Arrays-and-Strings/assets/139473344/123eb5c9-4f57-4d48-9d6b-e202c6c8786b)
-
-- **Enter the marks of subjects from user and display it**
-
-![exp7_6_1](https://github.com/Purvansha022609/Arrays-and-Strings/assets/139473344/260815a5-836c-4bf8-bf91-f92a4f1914ae)
-
-
-![exp7_6_2](https://github.com/Purvansha022609/Arrays-and-Strings/assets/139473344/c1e6738b-1e5f-4faa-aaeb-43c15d2f01dc)
-
 - **C++ program to find the maximum and minimum value of given array**
 
 ![exp7_7](https://github.com/Purvansha022609/Arrays-and-Strings/assets/139473344/50aba3d8-3ac1-4744-a1e4-feda5bfb1a95)
