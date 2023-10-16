@@ -1,8 +1,7 @@
+/*22070123129*/
+/*Varun Pagote*/
 /*
-PRN - 22070123092
-
 C++ program to find the sum and average of elements of array.
-
 */
 
 # include <iostream>
