@@ -1,8 +1,6 @@
-/*
-PRN - 22070123092
-Experiment 7
-
-*/
+/*22070123129*/
+/*Varun Pagote*/
+/*Palindrome*/
 #include<iostream>
 using namespace std;
 int main()
