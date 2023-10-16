@@ -1,8 +1,7 @@
+/*22070123129*/
+/*Varun Pagote*/
 /*
-PRN - 22070123092
-
 C++ program to find the maximum and the minimum value from the given array.
-
 */
 
 # include <iostream>
