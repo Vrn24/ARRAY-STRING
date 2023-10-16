@@ -1,8 +1,7 @@
-/*
-PRN - 22070123092
-
+/*22070123129*/
+/*Varun Pagote*/
+/*Print Marks
 C++ program to search for a value in an array and printing the position even if there are two or more same value.
-
 */
 
 # include <iostream>
